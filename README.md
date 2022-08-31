@@ -35,6 +35,6 @@ You may contact with questions about the Corpus data or leave an issue in this r
 
 yulander@hse.ru (Yury Lander)
 
-You may contact with questions about the search platform or leave an issue in [its own repository](https://github.com/LingConLab/Bashkir_corpus):
+You may contact with questions about the search platform or leave an issue in [its own repository](https://github.com/LingConLab/Spoken_Besleney):
 
 elena.o.sokur@gmail.com (Elena Sokur)

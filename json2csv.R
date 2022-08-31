@@ -47,7 +47,7 @@ map_dfr(files, function(json){
       map_chr("off_end_src") ->
       time_end
     
-    tibble(filename = source_file,
+    tibble(filename = json,
            time_start = time_start,
            time_end = time_end,
            speaker = js$sentences[[i]]$meta$speaker,

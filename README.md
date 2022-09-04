@@ -1,5 +1,7 @@
 # Spoken Corpus of the Besleney Dialect of East Circassian Data Repository
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7048114.svg)](https://doi.org/10.5281/zenodo.7048114)
+
 This repository is the place where the data from the [Spoken Corpus of the Besleney Dialect of East Circassian](http://lingconlab.ru/spoken_besleney/) is curated. This repository also provides an alternative way to access corpus data locally. The data is stored in `data_oral_besleney_corpus.csv` with 9478 rows and 14 columns:
 
 * `filename`
